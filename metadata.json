@@ -1,0 +1,6 @@
+{
+  "name": "BillShops - Gestion Commerciale & Accueil",
+  "description": "Application mobile-first BillShops par Hol Corporation : Tableau de bord Admin, Accès Visiteur Spécial et Page publique d'accueil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
